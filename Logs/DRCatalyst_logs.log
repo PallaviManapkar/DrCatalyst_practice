@@ -1,0 +1,42 @@
+2023-08-12 13:43:20,000 : INFO : Test_login_drcatalyst : test_login_page : 13 : Launching the webpage URL
+2023-08-12 13:43:20,000 : INFO : Test_login_drcatalyst : test_login_page : 14 : Checking the webpage
+2023-08-12 13:43:20,086 : INFO : Test_login_drcatalyst : test_login_page : 16 : Entering Clinic Number
+2023-08-12 13:43:20,213 : INFO : Test_login_drcatalyst : test_login_page : 18 : Entering Username
+2023-08-12 13:43:20,464 : INFO : Test_login_drcatalyst : test_login_page : 20 : Entering Password
+2023-08-12 13:43:20,601 : INFO : Test_login_drcatalyst : test_login_page : 22 : Clicking on Login Button
+2023-08-12 13:43:20,749 : INFO : Test_login_drcatalyst : test_login_page : 24 : Checking the login Success message
+2023-08-12 13:47:05,787 : INFO : Test_login_drcatalyst : test_login_page : 13 : Launching the webpage URL
+2023-08-12 13:47:05,787 : INFO : Test_login_drcatalyst : test_login_page : 14 : Checking the webpage
+2023-08-12 13:47:05,880 : INFO : Test_login_drcatalyst : test_login_page : 16 : Entering Clinic Number
+2023-08-12 13:47:06,026 : INFO : Test_login_drcatalyst : test_login_page : 18 : Entering Username
+2023-08-12 13:47:06,252 : INFO : Test_login_drcatalyst : test_login_page : 20 : Entering Password
+2023-08-12 13:47:06,390 : INFO : Test_login_drcatalyst : test_login_page : 22 : Clicking on Login Button
+2023-08-12 13:47:06,506 : INFO : Test_login_drcatalyst : test_login_page : 24 : Checking the login Success message
+2023-08-12 13:48:29,607 : INFO : Test_login_drcatalyst : test_login_page : 13 : Launching the webpage URL
+2023-08-12 13:48:29,608 : INFO : Test_login_drcatalyst : test_login_page : 14 : Checking the webpage
+2023-08-12 13:48:29,691 : INFO : Test_login_drcatalyst : test_login_page : 16 : Entering Clinic Number
+2023-08-12 13:48:29,810 : INFO : Test_login_drcatalyst : test_login_page : 18 : Entering Username
+2023-08-12 13:48:30,037 : INFO : Test_login_drcatalyst : test_login_page : 20 : Entering Password
+2023-08-12 13:48:30,183 : INFO : Test_login_drcatalyst : test_login_page : 22 : Clicking on Login Button
+2023-08-12 13:48:30,304 : INFO : Test_login_drcatalyst : test_login_page : 24 : Checking the login Success message
+2023-08-12 13:49:33,826 : INFO : Test_login_drcatalyst : test_login_page : 13 : Launching the webpage URL
+2023-08-12 13:49:33,826 : INFO : Test_login_drcatalyst : test_login_page : 14 : Checking the webpage
+2023-08-12 13:49:33,909 : INFO : Test_login_drcatalyst : test_login_page : 16 : Entering Clinic Number
+2023-08-12 13:49:34,029 : INFO : Test_login_drcatalyst : test_login_page : 18 : Entering Username
+2023-08-12 13:49:34,267 : INFO : Test_login_drcatalyst : test_login_page : 20 : Entering Password
+2023-08-12 13:49:34,421 : INFO : Test_login_drcatalyst : test_login_page : 22 : Clicking on Login Button
+2023-08-12 13:49:34,541 : INFO : Test_login_drcatalyst : test_login_page : 24 : Checking the login Success message
+2023-08-12 13:51:45,169 : INFO : Test_login_drcatalyst : test_login_page : 13 : Launching the webpage URL
+2023-08-12 13:51:45,170 : INFO : Test_login_drcatalyst : test_login_page : 14 : Checking the webpage
+2023-08-12 13:51:45,256 : INFO : Test_login_drcatalyst : test_login_page : 16 : Entering Clinic Number
+2023-08-12 13:51:45,381 : INFO : Test_login_drcatalyst : test_login_page : 18 : Entering Username
+2023-08-12 13:51:45,613 : INFO : Test_login_drcatalyst : test_login_page : 20 : Entering Password
+2023-08-12 13:51:45,754 : INFO : Test_login_drcatalyst : test_login_page : 22 : Clicking on Login Button
+2023-08-12 13:51:45,905 : INFO : Test_login_drcatalyst : test_login_page : 24 : Checking the login Success message
+2023-08-12 13:57:28,466 : INFO : Test_login_drcatalyst : test_login_page : 15 : Launching the webpage URL
+2023-08-12 13:57:28,467 : INFO : Test_login_drcatalyst : test_login_page : 16 : Checking the webpage
+2023-08-12 13:57:28,549 : INFO : Test_login_drcatalyst : test_login_page : 18 : Entering Clinic Number
+2023-08-12 13:57:28,667 : INFO : Test_login_drcatalyst : test_login_page : 20 : Entering Username
+2023-08-12 13:57:28,901 : INFO : Test_login_drcatalyst : test_login_page : 22 : Entering Password
+2023-08-12 13:57:29,055 : INFO : Test_login_drcatalyst : test_login_page : 24 : Clicking on Login Button
+2023-08-12 13:57:29,197 : INFO : Test_login_drcatalyst : test_login_page : 26 : Checking the login Success message
